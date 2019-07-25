@@ -1,5 +1,5 @@
 # ToDoList-App
-Its a To-Do List WebApp created using ReactJS
+Its a To-Do List WebApp created using ReactJS.
 Basic HTML, CSS have also been used to create this Web App.
 
 The following are the features of the ToDo List WebApp:
