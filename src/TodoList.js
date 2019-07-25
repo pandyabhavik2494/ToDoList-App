@@ -19,7 +19,7 @@ class Header extends React.Component {
     render() {
         return (
             <div id="todoHeader">
-                <span id="headerTitle">ToDoREACT</span>
+                <span id="headerTitle">ToDo List</span>
             </div>
         );
     }
