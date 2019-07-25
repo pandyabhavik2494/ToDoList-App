@@ -13,7 +13,7 @@ The following are the features of the ToDo List WebApp:
 You can demo this WebApp at:
 https://pandyabhavik2494.github.io/ToDoList-App/
 
-The following is are a few snaps of how the WebApp looks like:
+The following are a few snaps of how the WebApp looks like:
 
 
 
